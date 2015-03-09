@@ -9,6 +9,7 @@ namespace haris
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("koawjkwro");
         }
     }
 }
