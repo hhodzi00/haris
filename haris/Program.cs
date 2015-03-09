@@ -10,7 +10,11 @@ namespace haris
         static void Main(string[] args)
         {
             Console.WriteLine("koawjkwro");
+
             Console.WriteLine("lalalalla");
+
+            Console.WriteLine("bebebbebe");
+
         }
     }
 }
